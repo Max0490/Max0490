@@ -1,4 +1,5 @@
-### Hello World 👋
+# Hello World 👋
+## Welcome to my GitHub profile!
 
 <!--
 **Max0490/Max0490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
