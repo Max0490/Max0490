@@ -1,11 +1,11 @@
 <div id="header" align="center">
 	<h1>Hello, World! I'm Maxim </h1>
-	<h3>Middle Manual QA and Junior QA Automation from Samara</h3>
+	<h3>Middle Manual QA Engineer and Junior QA Automation from Samara</h3>
 </div>
 
 
 
-### Languages and tools
+### Technology stack
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="java" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="github" width="40" height="40"/>&nbsp;
