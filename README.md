@@ -1,6 +1,9 @@
 <div id="header" align="center">
 	<h1>Hello, World! I'm Maxim </h1>
 	<h3>Middle Manual QA Engineer and Junior QA Automation from Samara</h3>
+	<a href="https://www.linkedin.com/in/maksim-dolgodvorov-18922093">
+	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </div>
 
 
