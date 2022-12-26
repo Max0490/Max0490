@@ -7,13 +7,19 @@
 
 ### Technology stack
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="java" width="40" height="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="github" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="jenkins" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" title="gradle" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="docker" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" title="jira" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="selenium" width="40" height="40"/>&nbsp;
+
+<img src="https://github.com/Max0490/Max0490/blob/main/IDEA-logo.svg" title="idea" width="40" height="40" />&nbsp;
+<img src="https://github.com/Max0490/Max0490/blob/main/java-logo.svg" title="java" width="40" height="40" />&nbsp;
+<img src="https://github.com/Max0490/Max0490/blob/main/gradle-logo.svg" title="gradle" width="40" height="40" />&nbsp;
+<img src="https://github.com/Max0490/Max0490/blob/main/allure-Report-logo.svg" title="allure" width="40" height="40" />&nbsp;
+<img src="https://github.com/Max0490/Max0490/blob/main/allure-ee-logo.svg" title="allure" width="40" height="40" />&nbsp;
+<img src="https://github.com/Max0490/Max0490/blob/main/jenkins-logo.svg" title="jenkins" width="40" height="40" />&nbsp;
+<img src="https://github.com/Max0490/Max0490/blob/main/jira-logo.svg" title="jira" width="40" height="40" />&nbsp;
+<img src="https://github.com/Max0490/Max0490/blob/main/junit5-logo.svg" title="junit" width="40" height="40" />&nbsp;
+<img src="https://github.com/Max0490/Max0490/blob/main/rest-assured-logo.svg" title="rest" width="40" height="40" />&nbsp;
+<img src="https://github.com/Max0490/Max0490/blob/main/selenide-logo.svg" title="selenide" width="40" height="40" />&nbsp;
+														
+
 
 
 
