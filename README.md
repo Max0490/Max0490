@@ -30,8 +30,10 @@
 <img src="https://github.com/Max0490/Max0490/blob/main/selenide-logo.svg" title="selenide" width="40" height="40" />&nbsp;
 <img src="https://github.com/Max0490/Max0490/blob/main/GitHub-Logo.wine.svg" title="github" width="40" height="40" />&nbsp;
 </p>
-														
-
+	
+# About me:
+- 🔭 I’m currently working on SberTech
+- 🌱 I’m currently learning Java
 
 
 
