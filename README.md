@@ -1,3 +1,5 @@
+![Banner](./Banner.gif)
+
 <div id="header" align="center">
 	<h1>Hello, World! I'm Maxim </h1>
 	<h3>Middle Manual QA Engineer and Junior QA Automation from Samara</h3>
@@ -13,8 +15,6 @@
 </div>
 
 
-
-<br>
 <h2 align="center">Technology Stack </h2>
 
 <p align="center">
