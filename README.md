@@ -9,8 +9,8 @@
 	<a href="https://t.me/darwin_33">
 	<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn"/>
 </a>
-	<a href="https://instagram.com/maxi_dolgodvorov">
-	<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+	<a href="https://www.facebook.com/profile.php?id=100072807490482&mibextid=LQQJ4d">
+	<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
 </a>
 </div>
 
