@@ -3,7 +3,7 @@
 <div id="header" align="center">
 	<h1>Hello, World! I'm Maxim </h1>
 	<h3>Manual QA Engineer with 1+ year experience and Junior QA Automation from Samara</h3>
-	<a href="https://www.linkedin.com/in/maksim-dolgodvorov-18922093">
+	<a href="www.linkedin.com/in/maksim-dolgodvorov">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 	<a href="https://t.me/darwin_33">
