@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 	<h1>Hello, World! I'm Maxim </h1>
-	<h3>Manual QA Engineer with 1+ year experience and Junior QA Automation from Samara</h3>
+	<h3>Manual QA Engineer with 1+ year of experience and Junior QA Automation from Samara</h3>
 	<a href="www.linkedin.com/in/maksim-dolgodvorov">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
