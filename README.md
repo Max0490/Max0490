@@ -32,7 +32,7 @@
 </p>
 	
 # About me:
-- 🔭 I’m currently working on SberTech
+- 🔭 I’m currently working on Innotech
 - 🌱 I’m currently learning Java
 
 
