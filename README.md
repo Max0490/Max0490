@@ -30,7 +30,6 @@
 <img src="https://github.com/Max0490/Max0490/blob/main/selenide-logo.svg" title="selenide" width="40" height="40" />&nbsp;
 <img src="https://github.com/Max0490/Max0490/blob/main/GitHub-Logo.wine.svg" title="github" width="40" height="40" />&nbsp;
 <img src="https://playwright.dev/img/playwright-logo.svg" title="playwright" width="40" height="40" />&nbsp;
-<img src="https://raw.githubusercontent.com/cbeust/testng/main/src/main/resources/logo.png" title="testng" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" title="maven" width="40" height="40" />&nbsp;
 </p>
 	
