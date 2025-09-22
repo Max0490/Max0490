@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 	<h1>Hello, World! I'm Maxim </h1>
-	<h3>QA Automation Engineer** в InnoTech Team с фокусом на создании надежных и поддерживаемых автотестов</h3>
+	<h3>QA Automation Engineer в InnoTech Team с фокусом на создании надежных и поддерживаемых автотестов</h3>
 	<a href="www.linkedin.com/in/maksim-dolgodvorov">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
