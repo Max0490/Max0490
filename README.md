@@ -29,6 +29,7 @@
 <img src="https://github.com/Max0490/Max0490/blob/main/rest-assured-logo.svg" title="rest" width="40" height="40" />&nbsp;
 <img src="https://github.com/Max0490/Max0490/blob/main/selenide-logo.svg" title="selenide" width="40" height="40" />&nbsp;
 <img src="https://github.com/Max0490/Max0490/blob/main/GitHub-Logo.wine.svg" title="github" width="40" height="40" />&nbsp;
+<img src="https://playwright.dev/img/playwright-logo.svg" title="playwright" width="40" height="40" />&nbsp;
 </p>
 	
 ## 🏆 Мои принципы в автоматизации
