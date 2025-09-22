@@ -2,11 +2,11 @@
 
 <div id="header" align="center">
 	<h1>Hello, World! I'm Maxim </h1>
-	<h3>Manual QA Engineer with 2+ year of experience and Junior QA Automation from Samara</h3>
+	<h3>QA Automation Engineer** в [Иннотехе](https://innoteh.com/) с фокусом на создании надежных и поддерживаемых автотестов</h3>
 	<a href="www.linkedin.com/in/maksim-dolgodvorov">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-	<a href="https://t.me/darwin_33">
+	<a href="https://t.me/ma_dolgodvorov">
 	<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn"/>
 </a>
 	<a href="https://www.facebook.com/profile.php?id=100072807490482&mibextid=LQQJ4d">
@@ -31,9 +31,13 @@
 <img src="https://github.com/Max0490/Max0490/blob/main/GitHub-Logo.wine.svg" title="github" width="40" height="40" />&nbsp;
 </p>
 	
-# About me:
-- 🔭 I’m currently working on Innotech
-- 🌱 I’m currently learning Java
+# Мои принципы в автоматизации
+
+code_quality: "Чистый и поддерживаемый код"
+reliability: "Стабильные и надежные тесты"
+architecture: "Правильные паттерны проектирования"
+documentation: "Понятная и полная документация"
+continuous_learning: "Постоянное развитие навыков"
 
 
 
